@@ -1,0 +1,73 @@
+{
+  "series_ko": "연구실 해설 · 확률로 읽는 보안 사건",
+  "title_ko": "승인 기록 유출 — 확률 해설과 토론의 밤",
+  "site_url": "https://adminmrobo.github.io/agent_secret_leak_lab/",
+  "ontology": {
+    "pages": [
+      {
+        "path": "01_settings_leak_probability.html",
+        "kg": true,
+        "export": true
+      },
+      {
+        "path": "02_debate_settings_leak.html",
+        "kg": true,
+        "export": true
+      }
+    ],
+    "files": []
+  },
+  "languages": [
+    "ko"
+  ],
+  "items": [
+    {
+      "id": "cover_01",
+      "role": "cover",
+      "embedded_in": "01_settings_leak_probability.html",
+      "key": "#cover",
+      "size": [
+        1920,
+        1080
+      ],
+      "characters": [
+        "doc",
+        "asst",
+        "fly",
+        "jupanbot"
+      ],
+      "robot": "jupanbot-v2",
+      "prompt_en": "Website top cover illustration, wide 16:9.\nMatch the art style, proportions and colors of the attached reference images exactly (if there are no reference images: 16-bit RPG style pixel art, bold dark outline, 2–3 tone shading, small highlights).\nCozy night laboratory mood, purple light, soft magenta and green fluorescent accents.\nScene: wide night laboratory with test tube racks, stacks of lab notebooks, a boxy office photocopier glowing softly, and a large round vault door set into the back wall; an open doorway on the right leads toward a dim library shelf.\nAll four characters together:\n  chibi scientist, thin teal rectangular glasses, spiky black hair with one white streak, small ponytail at the back, white lab coat over black vest and tie, standing at the back center with a hand on his chin, looking up at a floating page;\n  girl researcher, long pink hair with two round buns and a navy streak, blue eyes, white lab coat over lavender hoodie, jeans, standing at the left side holding a ledger with blank striped pages and counting on her fingers;\n  anthropomorphic fruit fly researcher, black body, big red compound eyes, blue helmet with a gold stripe and pink and blue cables, white lab coat over a black vest, black gloves, transparent wings, on the left facing right, one eye narrowed, pointing at the floating page;\n  boxy beige retro CRT-monitor robot, dark green screen face with mint pixel eyes and mouth, short antenna topped with a red-brown abacus bead, gray segmented arms, two small tank treads, holding a wooden abacus, on the right facing left, busy calculating.\nVisual metaphor of the topic: a single glowing notebook page with blank striped lines slips out of an open lab notebook, passes through the photocopier and multiplies into faint copies drifting toward the open doorway, while the vault door's handle glows amber.\nComposition: keep every face and hand inside the central safe area (12% margin left and right, 10% top, 18% bottom); keep the bottom-left corner dark and simple; the light falls on the glowing page and the vault handle.\nMood: curious, friendly rivalry, the moment before the result.\nNo text, no letters, no numbers, no logos, no weapons, no cigarettes, no alcohol, no blood, no real brands.",
+      "source_of": null,
+      "status": "redraw"
+    },
+    {
+      "id": "cover_02",
+      "role": "cover",
+      "embedded_in": "02_debate_settings_leak.html",
+      "key": "#cover",
+      "size": [
+        1920,
+        1080
+      ],
+      "characters": [
+        "doc",
+        "asst",
+        "fly",
+        "jupanbot"
+      ],
+      "extra_characters": [
+        "sia",
+        "moa",
+        "x1",
+        "x2",
+        "x3"
+      ],
+      "robot": "jupanbot-v2",
+      "prompt_en": "Website top cover illustration, wide 16:9.\nMatch the art style, proportions and colors of the attached reference images exactly (if there are no reference images: 16-bit RPG style pixel art, bold dark outline, 2–3 tone shading, small highlights).\nCozy night laboratory mood, purple light, soft magenta and green fluorescent accents.\nScene: a small lecture hall inside the same night lab world, a low wooden stage with two podiums facing each other, a blank chalkboard behind, rows of audience seats in the foreground, purple lab light spilling in from one side.\nOn stage, all four main characters:\n  anthropomorphic fruit fly researcher, black body, big red compound eyes, blue helmet with a gold stripe and pink and blue cables, white lab coat over a black vest, black gloves, transparent wings, at the left podium facing right, one eye narrowed, pointing forward;\n  boxy beige retro CRT-monitor robot, dark green screen face with mint pixel eyes and mouth, short antenna topped with a red-brown abacus bead, gray segmented arms, two small tank treads, at the right podium facing left, holding up a wooden abacus;\n  chibi scientist, thin teal rectangular glasses, spiky black hair with one white streak, small ponytail, white lab coat over black vest and tie, standing at the back center between the podiums with one finger raised like a moderator;\n  girl researcher, long pink hair with two round buns and a navy streak, blue eyes, white lab coat over lavender hoodie, jeans, at the side of the stage holding a tally board with blank striped rows.\nAt the stage edge: intern Sia, waist-length straight jet-black hair, side-swept bangs, no hair accessory, gray eyes, small silver drop earrings, long-sleeved charcoal-black maid dress with a large gray ribbon and an ankle-length white frilled apron, holding a small blank flag, calm.\nIn the front audience row: intern Moa, ash-beige long hair with wavy ends, white frilled maid headband and a white ribbon above the left ear, amber eyes, white shirt with a red and navy check ribbon tie, camel knit cardigan, white frilled apron, black skirt, cheering with a fist;\n  next to her three small mysterious audience members drawn as dark navy silhouettes with tiny white dot eyes, each with one accent-colored prop (one pink ribbon, one pair of round teal glasses, one small gold bell), seated, faces unreadable.\nVisual metaphor of the topic: two ballot boxes on a small table in front of the stage, one teal and one red, with blank paper slips floating between them; a faint glowing notebook page above the stage.\nComposition: keep every face and hand inside the central safe area (12% margin left and right, 10% top, 18% bottom); keep the bottom-left corner dark and simple; the light falls on the two podiums and the ballot boxes.\nMood: lively debate night, friendly rivalry, the moment before the vote result.\nNo text, no letters, no numbers, no logos, no weapons, no cigarettes, no alcohol, no blood, no real brands.",
+      "source_of": null,
+      "status": "redraw"
+    }
+  ],
+  "updated": "2026-11-12"
+}

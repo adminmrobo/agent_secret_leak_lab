@@ -1,0 +1,7 @@
+# 이 시리즈의 주제 그대로: 에이전트 승인 기록과 비밀값은 올리지 않는다
+.claude/settings.local.json
+.claude/*.local.*
+.env
+.env.*
+*.pem
+.DS_Store

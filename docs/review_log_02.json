@@ -1,0 +1,13 @@
+{"page":"02_debate_settings_leak","domain":["stats","ai","econ"],"format":"debate-vote",
+ "runs":[
+  {"run":1,"date":"2026-11-11","skill":"1.12","reviewer":"같은 대화 (claude-opus-5-5 설정)",
+   "machine":{"M1":"pass","M2":"pass","M3":"pass","M4":"pass","M5":"pass","M6":"pass","M7":"pass","M8":"n/a","M9":"n/a"},
+   "scores":{"A":3.5,"B":3.5,"C":3.0,"D":3.0,"AI-C":3.0,"AI-E":3.5},
+   "tasks_open":["T1 #top 단정 완화","T2 #r1 셸 기록 서술","T3 #r2 동료 보호 과장","T4 #r2 반대 측 단정","T5 #vote2 비율/확률 구분","T6 #vote2 오차 범위","T7 결과 쉬운 말·도전 퀴즈","T8 #words 용어 격자","T9 #cast 진행 순서"],
+   "tasks_done":[],"note":""},
+  {"run":2,"date":"2026-11-11","skill":"1.12","reviewer":"같은 대화 (claude-opus-5-5 설정)",
+   "machine":{"M1":"pass","M2":"pass","M3":"pass","M4":"pass","M5":"pass","M6":"pass","M7":"pass","M8":"n/a","M9":"n/a"},
+   "scores":{"A":4.0,"B":4.0,"C":4.0,"D":4.0,"AI-C":4.0,"AI-E":4.0},
+   "tasks_open":["교차 검수(다른 대화·다른 모델)"],
+   "tasks_done":["T1","T2","T3","T4","T5","T6","T7","T8","T9"],"note":""}
+ ]}

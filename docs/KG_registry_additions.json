@@ -1,0 +1,1039 @@
+{
+ "series": "확률로 읽는 보안 사건",
+ "for": "ahnboat_lab_explainer/data/KG_00_registry.json",
+ "added": "2026-11-12",
+ "entries": [
+  {
+   "id": "lab:concept/conditional-probability",
+   "type": "Concept",
+   "label": {
+    "ko": "조건부확률",
+    "en": "conditional probability"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/base-rate",
+   "type": "Concept",
+   "label": {
+    "ko": "기저율",
+    "en": "base rate"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:concept/bayes-theorem",
+   "type": "Concept",
+   "label": {
+    "ko": "베이즈 정리",
+    "en": "Bayes' theorem"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:concept/likelihood-ratio",
+   "type": "Concept",
+   "label": {
+    "ko": "우도비",
+    "en": "likelihood ratio"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/odds",
+   "type": "Concept",
+   "label": {
+    "ko": "오즈",
+    "en": "odds"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/prior",
+   "type": "Concept",
+   "label": {
+    "ko": "사전확률",
+    "en": "prior probability"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/posterior",
+   "type": "Concept",
+   "label": {
+    "ko": "사후확률",
+    "en": "posterior probability"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:distribution/beta",
+   "type": "Distribution",
+   "label": {
+    "ko": "베타분포",
+    "en": "beta distribution"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:concept/credible-interval",
+   "type": "Concept",
+   "label": {
+    "ko": "신용구간",
+    "en": "credible interval"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:concept/rule-of-three",
+   "type": "Concept",
+   "label": {
+    "ko": "3의 법칙",
+    "en": "rule of three"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:concept/markov-chain",
+   "type": "Concept",
+   "label": {
+    "ko": "마르코프 연쇄",
+    "en": "Markov chain"
+   },
+   "domain": [
+    "ai",
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:concept/absorbing-state",
+   "type": "Concept",
+   "label": {
+    "ko": "흡수 상태",
+    "en": "absorbing state"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:concept/transition-probability",
+   "type": "Concept",
+   "label": {
+    "ko": "전이확률",
+    "en": "transition probability"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:concept/absorption-probability",
+   "type": "Concept",
+   "label": {
+    "ko": "흡수확률",
+    "en": "absorption probability"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:method/backward-induction",
+   "type": "Method",
+   "label": {
+    "ko": "역진적 귀납법",
+    "en": "backward induction"
+   },
+   "domain": [
+    "econ",
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/decision-tree-analysis",
+   "type": "Concept",
+   "label": {
+    "ko": "의사결정나무 분석",
+    "en": "decision tree analysis"
+   },
+   "domain": [
+    "econ",
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:concept/expected-loss",
+   "type": "Concept",
+   "label": {
+    "ko": "기대 손실",
+    "en": "expected loss"
+   },
+   "domain": [
+    "econ",
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:concept/census-vs-sample",
+   "type": "Concept",
+   "label": {
+    "ko": "전수조사 대 표본조사",
+    "en": "census vs sample"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:method/credential-rotation",
+   "type": "Method",
+   "label": {
+    "ko": "자격증명 폐기·재발급",
+    "en": "credential rotation"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/settings-local-json",
+   "type": "Term",
+   "label": {
+    "ko": ".claude/settings.local.json",
+    "en": "Claude Code local settings file"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/permission-allow-rule",
+   "type": "Term",
+   "label": {
+    "ko": "허용 규칙",
+    "en": "permission allow rule"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/global-git-excludes",
+   "type": "Term",
+   "label": {
+    "ko": "전역 Git 제외 목록",
+    "en": "global git excludes file"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/heredoc",
+   "type": "Term",
+   "label": {
+    "ko": "heredoc",
+    "en": "here document"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/secret-leak",
+   "type": "Concept",
+   "label": {
+    "ko": "비밀값 유출",
+    "en": "secret leak"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:limitation/snapshot-only",
+   "type": "Limitation",
+   "label": {
+    "ko": "모집단 한 장의 사진",
+    "en": "population snapshot only"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:limitation/no-path",
+   "type": "Limitation",
+   "label": {
+    "ko": "경로를 모름",
+    "en": "no path information"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:limitation/no-cost",
+   "type": "Limitation",
+   "label": {
+    "ko": "비용을 모름",
+    "en": "no cost information"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:limitation/toy-values",
+   "type": "Limitation",
+   "label": {
+    "ko": "예시값 모형",
+    "en": "toy values"
+   },
+   "domain": [
+    "econ"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:claim/apiiro-104185",
+   "type": "Claim",
+   "label": {
+    "ko": "2026-11-01~03 공개 GitHub에서 settings.local.json 사본 104,185개 수집",
+    "en": "104,185 public copies collected Nov 1-3 2026"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:claim/apiiro-1122",
+   "type": "Claim",
+   "label": {
+    "ko": "그중 1,122개(약 1.1%)에서 비밀값 발견, 서로 다른 값 1,379개",
+    "en": "1,122 files (≈1.1%) contained secrets, 1,379 unique"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:claim/apiiro-not-validated",
+   "type": "Claim",
+   "label": {
+    "ko": "조사팀은 자격증명 유효성을 시험하지 않음",
+    "en": "credentials were not validated"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:claim/apiiro-539",
+   "type": "Claim",
+   "label": {
+    "ko": "추적한 저장소 1,105개 중 539개에서 Claude 공동 작성 커밋이 파일을 변경",
+    "en": "Claude-coauthored commits changed the file in 539 of 1,105 traced repos"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:claim/apiiro-broad",
+   "type": "Claim",
+   "label": {
+    "ko": "범위를 넓히면 1,994개 저장소에서 서로 다른 비밀값 2,539개",
+    "en": "2,539 distinct secrets across 1,994 repos in the broader scan"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:claim/docs-allow-rule",
+   "type": "Claim",
+   "label": {
+    "ko": "'예, 다시 묻지 않기'는 settings.local.json에 allow 규칙으로 저장된다",
+    "en": "'Yes, and don't ask again' saves an allow rule in settings.local.json"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:claim/docs-global-excludes",
+   "type": "Claim",
+   "label": {
+    "ko": "Claude Code가 처음 쓸 때 전역 Git 제외 목록에 경로를 추가하며, 직접 만든 파일은 사용자가 제외해야 한다",
+    "en": "Claude Code adds the path to global git excludes on first write; hand-created files must be ignored by the user"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:claim/issue-heredoc",
+   "type": "Claim",
+   "label": {
+    "ko": "heredoc 본문 전체가 허용 항목 하나로 저장된 사례",
+    "en": "heredoc content saved as one permission entry"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:claim/git-tracked",
+   "type": "Claim",
+   "label": {
+    "ko": "이미 추적 중인 파일에는 무시 규칙이 적용되지 않는다",
+    "en": "gitignore does not affect already tracked files"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:question/core",
+   "type": "Question",
+   "label": {
+    "ko": "어느 고리를 끊어야 가장 싸게 막을까?",
+    "en": "Which link is cheapest to cut?"
+   },
+   "domain": [
+    "econ",
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:question/duel",
+   "type": "Question",
+   "label": {
+    "ko": "99개 중 몇 개를 열어 볼까?",
+    "en": "How many of 99 repos to inspect?"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:question/secret-types",
+   "type": "Question",
+   "label": {
+    "ko": "발견된 비밀값의 종류별 비율은? (확인 필요)",
+    "en": "Breakdown of secret types? (unverified)"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:question/p-e-noleak",
+   "type": "Question",
+   "label": {
+    "ko": "유출 없는 저장소에서 Claude 커밋은 얼마나 흔한가?",
+    "en": "How common are Claude commits in non-leaking repos?"
+   },
+   "domain": [
+    "ai",
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:analogy/lab-notebook",
+   "type": "Analogy",
+   "label": {
+    "ko": "금고 비밀번호가 적힌 실험 노트",
+    "en": "lab notebook with the vault code"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:work/itwire2026apiiro",
+   "type": "Work",
+   "label": {
+    "ko": "iTWire 2026-11-07 기사",
+    "en": "itwire2026apiiro"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:work/apiiro2026blog",
+   "type": "Work",
+   "label": {
+    "ko": "Apiiro 블로그 원문",
+    "en": "apiiro2026blog"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:work/claudecode2026settings",
+   "type": "Work",
+   "label": {
+    "ko": "Claude Code 설정 문서",
+    "en": "claudecode2026settings"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:work/anthropics2026issue24374",
+   "type": "Work",
+   "label": {
+    "ko": "claude-code 이슈 #24374",
+    "en": "anthropics2026issue24374"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:work/git2026gitignore",
+   "type": "Work",
+   "label": {
+    "ko": "Git gitignore 문서",
+    "en": "git2026gitignore"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability",
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:topic/probability-statistics",
+   "type": "Concept",
+   "label": {
+    "ko": "확률·통계",
+    "en": "Probability and statistics"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:topic/mdp",
+   "type": "Concept",
+   "label": {
+    "ko": "마르코프 결정 과정",
+    "en": "Markov decision process"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:topic/data-leakage",
+   "type": "Concept",
+   "label": {
+    "ko": "데이터 누수",
+    "en": "Data leakage"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "01_settings_leak_probability"
+   ]
+  },
+  {
+   "id": "lab:concept/oxford-debate",
+   "type": "Concept",
+   "label": {
+    "ko": "옥스퍼드식 토론",
+    "en": "Oxford-style debate"
+   },
+   "domain": [
+    "econ",
+    "stats"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/vote-swing",
+   "type": "Concept",
+   "label": {
+    "ko": "표 이동",
+    "en": "vote swing"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/debate-likelihood-ratio",
+   "type": "Concept",
+   "label": {
+    "ko": "토론의 우도비",
+    "en": "debate likelihood ratio"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/fact-vs-value",
+   "type": "Concept",
+   "label": {
+    "ko": "사실 질문과 가치 질문",
+    "en": "fact vs value questions"
+   },
+   "domain": [
+    "econ",
+    "stats"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/approval-fatigue",
+   "type": "Concept",
+   "label": {
+    "ko": "승인 피로",
+    "en": "approval fatigue"
+   },
+   "domain": [
+    "ai",
+    "econ"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/secure-defaults",
+   "type": "Concept",
+   "label": {
+    "ko": "안전한 기본값",
+    "en": "secure defaults"
+   },
+   "domain": [
+    "ai",
+    "econ"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/tool-responsibility",
+   "type": "Concept",
+   "label": {
+    "ko": "도구 책임론",
+    "en": "tool-side responsibility"
+   },
+   "domain": [
+    "ai",
+    "econ"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:concept/user-responsibility",
+   "type": "Concept",
+   "label": {
+    "ko": "사용자 책임론",
+    "en": "user-side responsibility"
+   },
+   "domain": [
+    "ai",
+    "econ"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:question/motion",
+   "type": "Question",
+   "label": {
+    "ko": "이 유출을 막을 1차 책임은 도구에 있는가?",
+    "en": "Is the tool primarily responsible?"
+   },
+   "domain": [
+    "ai",
+    "econ"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:question/shell-history",
+   "type": "Question",
+   "label": {
+    "ko": "같은 명령이 셸 기록에도 남는가? (이 페이지에서 출처 확인 안 함)",
+    "en": "Does the same command persist in shell history? (unverified here)"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/github",
+   "type": "Term",
+   "label": {
+    "ko": "GitHub",
+    "en": "GitHub"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/repository",
+   "type": "Term",
+   "label": {
+    "ko": "저장소",
+    "en": "repository"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/commit",
+   "type": "Term",
+   "label": {
+    "ko": "커밋",
+    "en": "commit"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/push",
+   "type": "Term",
+   "label": {
+    "ko": "푸시",
+    "en": "push"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/fork-clone",
+   "type": "Term",
+   "label": {
+    "ko": "포크·클론",
+    "en": "fork / clone"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/gitignore",
+   "type": "Term",
+   "label": {
+    "ko": ".gitignore",
+    "en": ".gitignore"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/secret",
+   "type": "Term",
+   "label": {
+    "ko": "비밀값",
+    "en": "secret / credential"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:term/coding-agent",
+   "type": "Term",
+   "label": {
+    "ko": "AI 코딩 비서",
+    "en": "coding agent"
+   },
+   "domain": [
+    "ai"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:limitation/non-random-audience",
+   "type": "Limitation",
+   "label": {
+    "ko": "객석은 무작위 표본이 아님",
+    "en": "audience is not a random sample"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:limitation/toy-weights",
+   "type": "Limitation",
+   "label": {
+    "ko": "카드 가중치는 예시값",
+    "en": "card weights are illustrative"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  },
+  {
+   "id": "lab:analogy/debate-as-update",
+   "type": "Analogy",
+   "label": {
+    "ko": "토론회 = 베이즈 갱신",
+    "en": "debate as Bayesian update"
+   },
+   "domain": [
+    "stats"
+   ],
+   "pages": [
+    "02_debate_settings_leak"
+   ]
+  }
+ ]
+}
